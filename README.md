@@ -1,2 +1,1 @@
-# verdancy-modules
-Verdancy XRobot Module Index
+# Verdancy XRobot Module Index
