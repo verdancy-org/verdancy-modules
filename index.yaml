@@ -5,3 +5,8 @@ modules:
   - https://github.com/verdancy-org/SBUS.git
   - https://github.com/verdancy-org/XRMotor.git
   - https://github.com/verdancy-org/PWMEsc.git
+  - https://github.com/verdancy-org/AnotcCommon.git
+  - https://github.com/verdancy-org/R9DS.git
+  - https://github.com/verdancy-org/RCInput.git
+  - https://github.com/verdancy-org/BatteryMonitor.git
+  - https://github.com/verdancy-org/ANOFlow.git
