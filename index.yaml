@@ -1,3 +1,7 @@
 namespace: verdancy-org
 modules:
-  - https://github.com/verdancy-org/BitsButtonXR.git
+  - https://github.com/verdancy-org/SPL06.git
+  - https://github.com/verdancy-org/AK8975.git
+  - https://github.com/verdancy-org/SBUS.git
+  - https://github.com/verdancy-org/XRMotor.git
+  - https://github.com/verdancy-org/PWMEsc.git
