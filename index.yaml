@@ -12,6 +12,7 @@ modules:
   - https://github.com/verdancy-org/LPFilter.git
   - https://github.com/verdancy-org/SensorFilter.git
   - https://github.com/verdancy-org/NavigationFilter.git
+  - https://github.com/verdancy-org/ActuatorControlTypes.git
   - https://github.com/verdancy-org/FlightController.git
   - https://github.com/verdancy-org/FlightNavigator.git
   - https://github.com/verdancy-org/Mixer.git
