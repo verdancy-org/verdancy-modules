@@ -16,3 +16,4 @@ modules:
   - https://github.com/verdancy-org/FlightController.git
   - https://github.com/verdancy-org/FlightNavigator.git
   - https://github.com/verdancy-org/Mixer.git
+  - https://github.com/verdancy-org/SX1281.git
