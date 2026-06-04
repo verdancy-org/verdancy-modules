@@ -10,6 +10,7 @@ modules:
   - https://github.com/verdancy-org/BatteryMonitor.git
   - https://github.com/verdancy-org/ANOFlow.git
   - https://github.com/verdancy-org/SX1281.git
+  - https://github.com/verdancy-org/BitsButtonXR.git
   - https://github.com/verdancy-org/ICM20948.git
   - https://github.com/verdancy-org/LC307.git
   - https://github.com/verdancy-org/STP23L.git
