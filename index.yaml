@@ -9,6 +9,8 @@ modules:
   - https://github.com/verdancy-org/SX1281.git
   - https://github.com/verdancy-org/BitsButtonXR.git
   - https://github.com/verdancy-org/ICM20948.git
+  - https://github.com/verdancy-org/MLX90640.git
+  - https://github.com/verdancy-org/INA228.git
   - https://github.com/verdancy-org/LC307.git
   - https://github.com/verdancy-org/STP23L.git
   - https://github.com/verdancy-org/GreySensor.git
