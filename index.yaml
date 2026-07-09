@@ -2,11 +2,8 @@ namespace: verdancy-org
 modules:
   - https://github.com/verdancy-org/SPL06.git
   - https://github.com/verdancy-org/AK8975.git
-  - https://github.com/verdancy-org/SBUS.git
-  - https://github.com/verdancy-org/XRMotor.git
   - https://github.com/verdancy-org/PWMESC.git
   - https://github.com/verdancy-org/R9DS.git
-  - https://github.com/verdancy-org/RCInput.git
   - https://github.com/verdancy-org/BatteryMonitor.git
   - https://github.com/verdancy-org/ANOFlow.git
   - https://github.com/verdancy-org/SX1281.git
