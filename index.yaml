@@ -16,3 +16,7 @@ modules:
   - https://github.com/verdancy-org/GreySensor.git
   - https://github.com/verdancy-org/SSD1306.git
   - https://github.com/verdancy-org/DisplaySurface.git
+  - https://github.com/verdancy-org/ICM42688.git
+  - https://github.com/verdancy-org/DRV8870Motor.git
+  - https://github.com/verdancy-org/SimpleMotor.git
+  - https://github.com/verdancy-org/DifferentialChassis.git
